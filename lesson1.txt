@@ -1,1 +1,5 @@
-python lesson1
+print("Hello Python")
+
+a=3
+print(a)
+
